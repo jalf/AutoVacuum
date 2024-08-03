@@ -6,11 +6,17 @@
 It is smart enough to turn the vacuum off when the tool is also turned off, but keeping the vacuum on for a few seconds to ensure the dust is cleaned.<br>
 It also contains a 3D model of the box to be printed on any 3D printer.<br>
 
+<strong>Disclaimer</strong>
+This project is provided “as is”, without warranties or conditions of any kind. The author is not responsible for any damages, direct or indirect, that may occur due to improper or incorrect use of this device. Handling of electrical circuits should be carried out by qualified professionals or under the supervision of a professional.
+
 <em>[Português]</em>
 
 <strong>AutoVacuum</strong> é um projeto baseado em Arduino para criar um dispositivo que ativa um aspirador de pó automaticamente quando outa ferramenta elétrica é acionada, como serras ou furadeiras.<br>
 Ele é inteligente para desligar o aspirador quando a ferramenta também é desligada, porém mantendo o aspirador ligado por alguns segundos para garantir a limpeza do pó.<br>
 Contém também um modelo 3D da caixa para ser impresso em qualquer impressora 3D.<br>
+
+<strong>Aviso</strong>
+Este projeto é fornecido “como está”, sem garantias ou condições de qualquer tipo. O autor não se responsabiliza por quaisquer danos, diretos ou indiretos, que possam ocorrer devido ao uso inadequado ou incorreto deste dispositivo. A manipulação de circuitos elétricos deve ser realizada por profissionais qualificados ou sob a supervisão de um profissional.
 
 ![Pic1](/Pictures/1.jpg)
 <img src="/Pictures/3.jpg" width="80px">
