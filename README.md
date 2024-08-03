@@ -19,6 +19,7 @@ Contém também um modelo 3D da caixa para ser impresso em qualquer impressora 3
 Este projeto é fornecido “como está”, sem garantias ou condições de qualquer tipo. O autor não se responsabiliza por quaisquer danos, diretos ou indiretos, que possam ocorrer devido ao uso inadequado ou incorreto deste dispositivo. A manipulação de circuitos elétricos deve ser realizada por profissionais qualificados ou sob a supervisão de um profissional.
 
 ![Pic1](/Pictures/1.jpg)
+<img src="/Pictures/2.jpg" width="80px">
 <img src="/Pictures/3.jpg" width="80px">
 <img src="/Pictures/4.jpg" width="80px">
 <img src="/Pictures/5.jpg" width="80px">
